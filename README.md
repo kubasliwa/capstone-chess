@@ -20,7 +20,7 @@ Players are asked to enter their moves manually. If desired move for any reason 
 
 ## Notation
 
-The move should (usually) consist of 3 characters: Piece's letter representation and the field the Piece is supposed to be moved to. <br />
+The move should (usually) consist of 3 characters: Piece's letter representation and the field the Piece is supposed to be moved to, e.g. if you want to move your Queen from field a1 to field a4 you type in 'Qa4'. <br />
 
 This is how pieces are represented: <br />
    a) K - King <br />
