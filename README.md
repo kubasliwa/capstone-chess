@@ -12,6 +12,14 @@ The game terminates if one of the following conditions is met: <br />
   
 If there is a checkmate on board, the winner is determined and infromation about it printed. In cases b) and c), the game is undecided.
 
+## Installation
+```
+git clone https://github.com/kubasliwa/capstone-chess.git
+cd capstone-chess
+
+javac -d target src/*.java
+java -cp target Game
+```
 ## How it works?
 
 The moves are performed interchangably. First move is always performed by White. <br />
