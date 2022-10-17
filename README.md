@@ -42,3 +42,5 @@ The game accounts for all the rules that players are supposed to follow. These r
   a) Promotion - when a player's Pawn reaches the ultimate line (8 for White, 1 for Black) it might be metamorphosed into any of the pieces (Q, R, B, N). <br />
   b) Castling - might be performed only if several conditions are met e.g. the King is not being checked, the King and the Rook haven't been moved. <br />
   c) EnPassant - specific kind of beating an opponent's Pawn that has been moved in the previous move.
+  
+## Required Java version: 18+
